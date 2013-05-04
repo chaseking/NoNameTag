@@ -1,0 +1,9 @@
+name: NoNameTag
+main: com.chasechocolate.nonametag.NoNameTag
+version: 05.04.13
+softdepend: [TagAPI]
+commands:
+  nonametag:
+    usage: /nonametag [args]
+    description: NoNameTag command.
+    aliases: ['nnt']

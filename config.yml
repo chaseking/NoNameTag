@@ -1,0 +1,3 @@
+#Server operators will automatically have
+#no name tag, regardless of permissions
+opdefault: true
